@@ -1,5 +1,7 @@
 # cyber-background
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 Forked from [170706_webgl2_feature/transform_feedback](https://github.com/ics-creative/170706_webgl2_feature)
 
 ## How to run
