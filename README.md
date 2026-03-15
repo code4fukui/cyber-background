@@ -1,20 +1,20 @@
-# cyber backgropnd
+# cyber-background
 
-forked from [170706_webgl2_feature/transform_feedback](https://github.com/ics-creative/170706_webgl2_feature)
+Forked from [170706_webgl2_feature/transform_feedback](https://github.com/ics-creative/170706_webgl2_feature)
 
-## how to run
+## How to run
 
-setup
+Setup:
 ```bash
 npm install
 ```
 
-start
+Start:
 ```bash
 npm run start
 ```
 
-## reference
+## Reference
 
-- [サンプルで理解するWebGL 2.0 - ChromeとFirefoxが対応したWebGL 2.0の利点とは - ICS MEDIA](https://ics.media/entry/16060/)
-- [CSSで美しいネオンライトのエフェクトをテキストやボタン、ボーダーに実装するテクニックのまとめ | コリス](https://coliss.com/articles/build-websites/operation/css/css-neon-sign-effects.html)
+- [Understanding WebGL 2.0 with Samples - The Advantages of WebGL 2.0 Supported by Chrome and Firefox - ICS MEDIA](https://ics.media/entry/16060/)
+- [Techniques to Implement Neon Light Effects on Text, Buttons, and Borders Using CSS | COLISS](https://coliss.com/articles/build-websites/operation/css/css-neon-sign-effects.html)
